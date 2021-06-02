@@ -1,0 +1,2 @@
+model_checkpoint_path: "wave_model-50ep-2pts"
+all_model_checkpoint_paths: "wave_model-50ep-2pts"
